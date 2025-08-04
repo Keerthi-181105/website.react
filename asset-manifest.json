@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/website.react/static/css/main.9ced4649.css",
+    "main.js": "/website.react/static/js/main.1054af8d.js",
+    "static/media/background.webp": "/website.react/static/media/background.3c1632f01edc65fcb776.webp",
+    "static/media/Super.png": "/website.react/static/media/Super.88ae8afe5c42349244b6.png",
+    "static/media/Messi.jpg": "/website.react/static/media/Messi.faba9df79b29a99bd392.jpg",
+    "static/media/logo.png": "/website.react/static/media/logo.c5ccb5f53509a0cfad8d.png",
+    "static/media/Snug.avif": "/website.react/static/media/Snug.2419fe7b8497d8068157.avif",
+    "static/media/Multii.webp": "/website.react/static/media/Multii.4c9de323120b54de311d.webp",
+    "static/media/Racer.avif": "/website.react/static/media/Racer.ffeb1bc5c6853d07f284.avif",
+    "static/media/Ultraboost.jpg": "/website.react/static/media/Ultraboost.8da441215ab1f6d80323.jpg",
+    "static/media/Advantage.jpg": "/website.react/static/media/Advantage.e32e9086843ccc1d38dd.jpg",
+    "static/media/Base.jpg": "/website.react/static/media/Base.2ee498aa626b8a02389f.jpg",
+    "index.html": "/website.react/index.html",
+    "main.9ced4649.css.map": "/website.react/static/css/main.9ced4649.css.map",
+    "main.1054af8d.js.map": "/website.react/static/js/main.1054af8d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ced4649.css",
+    "static/js/main.1054af8d.js"
+  ]
+}
